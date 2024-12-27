@@ -3,11 +3,14 @@
 
 <table>
     <tr>
-        <td><img src="https://github.com/irahul32/Global-COVID-19-Trends-with-Power-BI-Dashboard-and-Python-EDA/blob/main/Screesshots/newcases.png" alt="new cases" width="300"/></td>
-        <td><img src="https://github.com/irahul32/Global-COVID-19-Trends-with-Power-BI-Dashboard-and-Python-EDA/blob/main/Screesshots/deaths.png" alt="deaths" width="300"/></td>
-        <td><img src="https://github.com/irahul32/Global-COVID-19-Trends-with-Power-BI-Dashboard-and-Python-EDA/blob/main/Screesshots/Vacc over regions.png" alt="Vacc over regions" width="300"/></td>
-        <td><img src="https://github.com/irahul32/Global-COVID-19-Trends-with-Power-BI-Dashboard-and-Python-EDA/blob/main/Screesshots/Vacc over time.png" alt="Vacc over time" width="300"/></td>
+        <td><img src="https://github.com/mishrashivamgg/Car_Sales/blob/main/Images/Overview.png" width="300"/></td>
+        <td><img src="https://github.com/mishrashivamgg/Car_Sales/blob/main/Images/Details.png" alt="deaths" width="300"/></td>
     </tr>
+
+<tr>
+        <td align="center"><b>Overview Dashboard</b></td>
+        <td align="center"><b>Details Dashboard</b></td>
+    </tr>
 </table>
   
 1. Project Objective:
