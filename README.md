@@ -13,7 +13,7 @@
     </tr>
 </table>
   
-1. Project Objective:
+    2.Project Objective:
 
 To leverage the power of Power BI to gain deeper insights into sales performance, identify key trends and forecast future sales for  across various product lines and regions.
 
