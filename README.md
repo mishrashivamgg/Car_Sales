@@ -1,5 +1,5 @@
 About this project
-[[Link]<iframe title="Car_sales" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZTRiZGI5MjEtN2JjMi00YmY1LTlkZGItYTg5NTNlOTNhYTA2IiwidCI6IjNjYWNjYzA2LTY3ZmEtNDdjZS05YzVhLTIyNDM2OWUxNzZlMyJ9" frameborder="0" allowFullScreen="true"></iframe>]
+[[Link][https://app.powerbi.com/view?r=eyJrIjoiZTRiZGI5MjEtN2JjMi00YmY1LTlkZGItYTg5NTNlOTNhYTA2IiwidCI6IjNjYWNjYzA2LTY3ZmEtNDdjZS05YzVhLTIyNDM2OWUxNzZlMyJ9]]
   1. Project Objective:
 
 To leverage the power of Power BI to gain deeper insights into sales performance, identify key trends and forecast future sales for  across various product lines and regions.
