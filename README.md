@@ -1,5 +1,14 @@
-About this project
-[[Link](https://app.powerbi.com/view?r=eyJrIjoiZTRiZGI5MjEtN2JjMi00YmY1LTlkZGItYTg5NTNlOTNhYTA2IiwidCI6IjNjYWNjYzA2LTY3ZmEtNDdjZS05YzVhLTIyNDM2OWUxNzZlMyJ9)
+# About this project
+[➥ Live Demo](https://app.powerbi.com/view?r=eyJrIjoiZTRiZGI5MjEtN2JjMi00YmY1LTlkZGItYTg5NTNlOTNhYTA2IiwidCI6IjNjYWNjYzA2LTY3ZmEtNDdjZS05YzVhLTIyNDM2OWUxNzZlMyJ9)
+
+<table>
+    <tr>
+        <td><img src="https://github.com/irahul32/Global-COVID-19-Trends-with-Power-BI-Dashboard-and-Python-EDA/blob/main/Screesshots/newcases.png" alt="new cases" width="300"/></td>
+        <td><img src="https://github.com/irahul32/Global-COVID-19-Trends-with-Power-BI-Dashboard-and-Python-EDA/blob/main/Screesshots/deaths.png" alt="deaths" width="300"/></td>
+        <td><img src="https://github.com/irahul32/Global-COVID-19-Trends-with-Power-BI-Dashboard-and-Python-EDA/blob/main/Screesshots/Vacc over regions.png" alt="Vacc over regions" width="300"/></td>
+        <td><img src="https://github.com/irahul32/Global-COVID-19-Trends-with-Power-BI-Dashboard-and-Python-EDA/blob/main/Screesshots/Vacc over time.png" alt="Vacc over time" width="300"/></td>
+    </tr>
+</table>
   
 1. Project Objective:
 
